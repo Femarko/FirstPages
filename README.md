@@ -20,5 +20,5 @@
 * не будьте занудами  
 * просто посмотрите:
 
-![Облака в воде](https://github.com/Femarko/FirstPages/blob/main/Clouds%20in%20the%20water.jpg)
+![Облака в воде](https://disk.yandex.ru/i/KzAUsQeNCKU5hg)
 

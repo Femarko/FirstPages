@@ -20,5 +20,5 @@
 * не будьте занудами  
 * просто посмотрите:
 
-![](/images/Cloudes in the water)
+![Облака в воде](https://github.com/Femarko/FirstPages/blob/main/Clouds%20in%20the%20water.jpg)
 

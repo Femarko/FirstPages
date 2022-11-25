@@ -20,5 +20,5 @@
 * не будьте занудами  
 * просто посмотрите:
 
-![Облака в воде](https://disk.yandex.ru/i/KzAUsQeNCKU5hg)
+[Облака в воде](https://disk.yandex.ru/i/KzAUsQeNCKU5hg)
 

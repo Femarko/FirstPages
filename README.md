@@ -23,5 +23,4 @@
 
 Вот как это выглядит:  
 
-![Облака в воде](/images/Clouds_in the_water
-.jpg)
+![Облака в воде](https://github.com/Femarko/FirstPages/blob/main/Clouds_in%20the_water.jpg)
